@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Елагин Антон Александрович
+## Контактная информация
 
-You can use the [editor on GitHub](https://github.com/AntonElagin/AntonElagin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* Email: anton_120299@mail.ru
+* Telegram: [@Anton_Elagin](https://t.me/anton_elagin)
+* Github: [AntonElagin](https://github.com/AntonElagin)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Работа
+* Mail.ru Group(с 2 сентября 2020 года по настоящее время)
+    * Frontend-разработчик. Проекты: "Календарь", "Задачи".
 
-### Markdown
+## Профессиональные навыки:
+* JavaScript
+* React
+* Apollo
+* TypeScript
+* HTML
+* CSS
+* RxJS
+* GraphQL
+* Webpack, Rollup, Grunt
+* Redux
+* Nginx
+* UI тестирование на основе selenium
+* Enzyme
+* Storybook(для демонстрации UI-компонентов)
+* Jira
+* Jenkins
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Мои проекты:
+### Технопарк Mail.ru:
+* МVP аналога GitHub: [https://github.com/frontend-park-mail-ru/2020_1_GitBreakers](https://github.com/frontend-park-mail-ru/2020_1_GitBreakers) - не поддерживается
 
-```markdown
-Syntax highlighted code block
+## Образование
+* МОУ СОШ №9 г. Серпухов
 
-# Header 1
-## Header 2
-### Header 3
+* МГТУ им. Н. Э. Баумана
+    * Факультет: ИУ
+    * Кафедра: 6 (Компьютерные системы и сети)
+    * Статус: Бакалавр
+    * Выпуск 2021 года
 
-- Bulleted
-- List
+* Технопарк@Mail.ru
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AntonElagin/AntonElagin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Личные качества:
+* Стремлюсь к изучению нового
+* Стараюсь придумывать и реализовывать технически лучшее решение
